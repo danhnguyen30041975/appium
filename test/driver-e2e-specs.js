@@ -10,7 +10,7 @@ import { main as appiumServer } from '../lib/main';
 import { TEST_FAKE_APP, TEST_HOST, TEST_PORT } from './helpers';
 import { BaseDriver } from 'appium-base-driver';
 import { FakeDriver } from 'appium-fake-driver';
-import sinon from 'sinon';
+import sinon from 'sinon'
 
 chai.use(chaiAsPromised);
 

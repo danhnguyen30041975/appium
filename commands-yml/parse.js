@@ -9,7 +9,7 @@ import { asyncify } from 'asyncbox';
 import { validator, CLIENT_URL_TYPES } from './validator';
 import url from 'url';
 import log from 'fancy-log';
-import findRoot from 'find-root';
+import findRoot from 'find-root'
 
 
 // What range of platforms do the driver's support

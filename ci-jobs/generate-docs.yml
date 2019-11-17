@@ -1,11 +1,11 @@
 # parameters: # No params yet, but may add later
 jobs:
   - job: generate_docs
-    pool: 
+    pool:
       vmImage: "macOS 10.14"
     variables:
       CC: gcc
-      CXX: g++
+      CXX: g+
     steps:
     - task: NodeTool@0
       inputs:

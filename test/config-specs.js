@@ -11,7 +11,7 @@ import { getGitRev, getBuildInfo, checkNodeOk, warnNodeDeprecations,
 import getParser from '../lib/parser';
 import logger from '../lib/logger';
 import { fs } from 'appium-support';
-import request from 'request-promise';
+import request from 'request-promise'
 
 let should = chai.should();
 chai.use(chaiAsPromised);

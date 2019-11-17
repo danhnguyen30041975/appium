@@ -4,7 +4,7 @@ jobs:
     pool:
       vmImage: 'macOS 10.14'
     variables:
-      CC: gcc
+      CC: gc
       CXX: g++
     steps:
     - task: NodeTool@0
