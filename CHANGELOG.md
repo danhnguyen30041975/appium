@@ -3277,4 +3277,4 @@ CHANGES IN VERSION 0.2.0 (from 0.1.3)
 - begun work to get bootstrap in maven
 - flick() as an alias of sorts for swipe()
 
--- changes not tracked before v0.1.3 --
+-- changes not tracked before v0.1.3 -

@@ -13,4 +13,4 @@ Appium is excited to participate as a [Google Summer of Code](https://summerofco
 |Testing the Internet of Things|Appium's architecture makes it dead simple to integrate drivers for automating new technologies. What about _really_ new technologies like IoT devices? Help to redefine the semantics of the WebDriver protocol for use with IoT, and build a driver for an IoT device to prove it out.|
 |Driver for X|Have an idea of something else Appium could automate that it doesn't already? Build a driver for it! This would involve some awesome Node.js code, plus whatever else is needed to integrate with the platform you have in mind.|
 
-Hopefully this gives you some ideas of fun projects that would be substantial and long-lasting contributions to the Appium community.
+Hopefully this gives you some ideas of fun projects that would be substantial and long-lasting contributions to the Appium community

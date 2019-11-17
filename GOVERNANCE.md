@@ -97,4 +97,4 @@ reach out to one of the TC members.
 This governance model necessarily leaves many situations unspecified. If
 questions arise as to how a given situation should proceed according to the
 overall goals of the project, the best thing to do is to open a GitHub issue
-and ping the TC members.
+and ping the TC members

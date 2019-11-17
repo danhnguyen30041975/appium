@@ -60,4 +60,4 @@ are any questions that you can answer.
 ### Submit bug reports or feature requests
 
 Just use the GitHub issue tracker to submit your bug reports and feature
-requests. If you are submitting a bug report, please follow the [issue template](https://github.com/appium/appium/issues/new).
+requests. If you are submitting a bug report, please follow the [issue template](https://github.com/appium/appium/issues/new)

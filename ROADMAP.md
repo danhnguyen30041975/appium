@@ -55,5 +55,5 @@ exists to outline large-scale future plans for Appium.
 |iOS 9.2 support|Appium should support iOS 9.2 / Xcode 7.2|11/2015|1.4.14||
 |iOS 9.1 support|Appium should support iOS 9.1 / Xcode 7.1|10/2015|1.4.12||
 |iOS 9.0 support|Appium should support iOS 9.0 / Xcode 7.0|10/2015|1.4.11||
-|iOS 8.4 support|Appium should support iOS 8.4 / Xcode 6.2|5/2015|1.4.0||
+|iOS 8.4 support|Appium should support iOS 8.4 / Xcode 6.2|5/2015|1.40||
 |Appium CI|Appium has unique needs for Continuous Integration because of the highly specialized environments required (iOS simulators, Xcode, Android emulators, the Android SDK, etc...). We therefore need to create a custom CI solution (perhaps sitting underneath Cloudbees or some other OSS-friendly CI server) that can be used for all Appium projects which need integration tests.|5/2015|_N/A_|Usage instructions at [appium/appium-ci](https://github.com/appium/appium-ci)|

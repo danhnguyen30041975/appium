@@ -45,4 +45,4 @@ It's inspired among other things by:
 * [Geek Feminism](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
 * [Ashe Dryden](http://www.ashedryden.com/blog/codes-of-conduct-101-faq)
 * [Model View Culture](https://modelviewculture.com/issues/events)
-* [Open Source & Feelings](http://osfeels.com/conduct).
+* [Open Source & Feelings](http://osfeels.com/conduct)
